@@ -1,0 +1,18 @@
+body {
+    margin: auto;
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    width: 30%;
+    height: 100vh;
+}
+
+h1 {
+    font-weight: bold;
+    color: #00F;
+}
+
+p {
+    color: #FAFD14;
+}
